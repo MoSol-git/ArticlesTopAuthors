@@ -1,7 +1,10 @@
 # ArticlesTopAuthors
 
-Set a directory with your pdf files of scientific papers, and it will capture the doi, and author names of the references
-in those files. 
-It can be used to determine who are the main contributers to a specific topic, and then you can read more of those authors.
+If you have a large collection of scientific papers about a new topic, you can use this program to find out who are the main
+authors of that field. Just give the address to that folder and it will return the top 100 authors
+with most contribution in that field.
 
-The more specific the pdf files are about a topic, the more meaningfull results can be obtained. 
+- Set a directory with your pdf files with scientific papers, and it will capture the doi, and author names of the references
+in those files. You can keep the doi list the obtain more details about each paper by web scrapping.
+
+- The more specific the pdf files are about a topic, the more meaningfull results can be obtained. 
